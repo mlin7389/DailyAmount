@@ -7,10 +7,9 @@ App簡介
 
 選擇項目，金額，日期就完成流水帳記錄，App還會依項目出現過的金額讓你選擇，連鍵盤都用不到。當然少不了要搜尋合併檢視功能，還有匯出csv等，後續自己就自行運用囉！ 或者可以自己將每個月的信用卡帳號型成CSV格式匯入App，方便統計查看。
 
+有興趣的，就自己去摸索吧！
+
 展示影片
 
-[https://1drv.ms/v/s!Avj23u3hGPrSj_4lWIaJI7xYSdKcLw?e=gvRkvg](https://1drv.ms/v/s!Avj23u3hGPrSj_4lWIaJI7xYSdKcLw?e=gvRkvg)
+![image](https://github.com/mlin7389/DailyAmount/blob/main/demo.gif)
 
-[https://1drv.ms/v/s!Avj23u3hGPrSj_41jsY7KCbZ41DqsA?e=AF9WwM](https://1drv.ms/v/s!Avj23u3hGPrSj_41jsY7KCbZ41DqsA?e=AF9WwM)
-
-有興趣的，就自己去摸索吧！
